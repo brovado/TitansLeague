@@ -1,0 +1,295 @@
+{
+  "version": "2.0.0",
+  "generated_at": "2025-10-26T19:19:35.328898Z",
+  "note": "Traits aligned to the canonical 24-team list; includes league field.",
+  "teams": [
+    {
+      "team_id": "phantom_theives",
+      "name": "Phantom Theives",
+      "preferred_environment": "sky_bridge",
+      "preferred_room_type": "puzzle",
+      "style_tags": [
+        "identity:puzzle",
+        "env:sky_bridge"
+      ],
+      "coach_personality": "stern tactician",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "frosted_drakes",
+      "name": "Frosted Drakes",
+      "preferred_environment": "sky_bridge",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:sky_bridge"
+      ],
+      "coach_personality": "vibes-first motivator",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "rythem_and_blues",
+      "name": "Rythem and Blues",
+      "preferred_environment": "glacial_cavern",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:glacial_cavern"
+      ],
+      "coach_personality": "wildcard",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "the_angry_birds",
+      "name": "The Angry Birds",
+      "preferred_environment": "glacial_cavern",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:glacial_cavern"
+      ],
+      "coach_personality": "numbers-obsessed",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "the_fun_guys",
+      "name": "The Fun Guys",
+      "preferred_environment": "buried_catacombs",
+      "preferred_room_type": "trap",
+      "style_tags": [
+        "identity:trap",
+        "env:buried_catacombs"
+      ],
+      "coach_personality": "vibes-first motivator",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "the_watch_overs",
+      "name": "The Watch Overs",
+      "preferred_environment": "sky_bridge",
+      "preferred_room_type": "trap",
+      "style_tags": [
+        "identity:trap",
+        "env:sky_bridge"
+      ],
+      "coach_personality": "wildcard",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "the_poison_ivies",
+      "name": "The Poison Ivies",
+      "preferred_environment": "infernal_forge",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:infernal_forge"
+      ],
+      "coach_personality": "wildcard",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "the_a-men",
+      "name": "The A-Men",
+      "preferred_environment": "glacial_cavern",
+      "preferred_room_type": "puzzle",
+      "style_tags": [
+        "identity:puzzle",
+        "env:glacial_cavern"
+      ],
+      "coach_personality": "numbers-obsessed",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "howling_flayers",
+      "name": "Howling Flayers",
+      "preferred_environment": "sky_bridge",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:sky_bridge"
+      ],
+      "coach_personality": "vibes-first motivator",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "men_of_the_night",
+      "name": "Men of the Night",
+      "preferred_environment": "buried_catacombs",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:buried_catacombs"
+      ],
+      "coach_personality": "numbers-obsessed",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "wings_of_the_pheonix",
+      "name": "Wings of the Pheonix",
+      "preferred_environment": "glacial_cavern",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:glacial_cavern"
+      ],
+      "coach_personality": "numbers-obsessed",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "crushers_of_disease",
+      "name": "Crushers Of Disease",
+      "preferred_environment": "sky_bridge",
+      "preferred_room_type": "puzzle",
+      "style_tags": [
+        "identity:puzzle",
+        "env:sky_bridge"
+      ],
+      "coach_personality": "vibes-first motivator",
+      "league": "MAJOR"
+    },
+    {
+      "team_id": "vendetta_of_the_passion",
+      "name": "Vendetta Of The Passion",
+      "preferred_environment": "buried_catacombs",
+      "preferred_room_type": "boss_phaselet",
+      "style_tags": [
+        "identity:boss_phaselet",
+        "env:buried_catacombs"
+      ],
+      "coach_personality": "wildcard",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "aspiring_legacy",
+      "name": "Aspiring Legacy",
+      "preferred_environment": "infernal_forge",
+      "preferred_room_type": "timed_route",
+      "style_tags": [
+        "identity:timed_route",
+        "env:infernal_forge"
+      ],
+      "coach_personality": "stern tactician",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "passion_of_the_dead",
+      "name": "Passion Of the Dead",
+      "preferred_environment": "infernal_forge",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:infernal_forge"
+      ],
+      "coach_personality": "numbers-obsessed",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "the_ruby_snake_posse",
+      "name": "The Ruby Snake Posse",
+      "preferred_environment": "infernal_forge",
+      "preferred_room_type": "boss_phaselet",
+      "style_tags": [
+        "identity:boss_phaselet",
+        "env:infernal_forge"
+      ],
+      "coach_personality": "numbers-obsessed",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "forge_maggots",
+      "name": "Forge Maggots",
+      "preferred_environment": "sky_bridge",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:sky_bridge"
+      ],
+      "coach_personality": "wildcard",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "revenge_of_the_seduced",
+      "name": "Revenge of The Seduced",
+      "preferred_environment": "buried_catacombs",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:buried_catacombs"
+      ],
+      "coach_personality": "numbers-obsessed",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "enigmas_of_the_inpure",
+      "name": "Enigmas Of the Inpure",
+      "preferred_environment": "sky_bridge",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:sky_bridge"
+      ],
+      "coach_personality": "stern tactician",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "mortal_ashes",
+      "name": "Mortal Ashes",
+      "preferred_environment": "sky_bridge",
+      "preferred_room_type": "puzzle",
+      "style_tags": [
+        "identity:puzzle",
+        "env:sky_bridge"
+      ],
+      "coach_personality": "stern tactician",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "heavens_thunder",
+      "name": "Heavens Thunder",
+      "preferred_environment": "infernal_forge",
+      "preferred_room_type": "combat",
+      "style_tags": [
+        "identity:combat",
+        "env:infernal_forge"
+      ],
+      "coach_personality": "vibes-first motivator",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "swift_shade",
+      "name": "Swift Shade",
+      "preferred_environment": "buried_catacombs",
+      "preferred_room_type": "puzzle",
+      "style_tags": [
+        "identity:puzzle",
+        "env:buried_catacombs"
+      ],
+      "coach_personality": "vibes-first motivator",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "lucky_charms",
+      "name": "Lucky Charms",
+      "preferred_environment": "buried_catacombs",
+      "preferred_room_type": "boss_phaselet",
+      "style_tags": [
+        "identity:boss_phaselet",
+        "env:buried_catacombs"
+      ],
+      "coach_personality": "numbers-obsessed",
+      "league": "MINOR"
+    },
+    {
+      "team_id": "super_naturals",
+      "name": "Super Naturals",
+      "preferred_environment": "infernal_forge",
+      "preferred_room_type": "timed_route",
+      "style_tags": [
+        "identity:timed_route",
+        "env:infernal_forge"
+      ],
+      "coach_personality": "stern tactician",
+      "league": "MINOR"
+    }
+  ]
+}
